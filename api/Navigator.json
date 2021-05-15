@@ -539,7 +539,7 @@
       "contacts": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Navigator/contacts",
-          "spec_url": "https://wicg.github.io/contact-api/spec/#extensions-to-navigator",
+          "spec_url": "https://wicg.github.io/contact-api/spec/#dom-navigator-contacts",
           "support": {
             "chrome": {
               "version_added": false
@@ -1319,7 +1319,7 @@
       "keyboard": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Navigator/keyboard",
-          "spec_url": "https://wicg.github.io/keyboard-map/#navigator-interface",
+          "spec_url": "https://wicg.github.io/keyboard-map/#h-navigator-keyboard",
           "support": {
             "chrome": {
               "version_added": "68"
@@ -1368,7 +1368,7 @@
       "locks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Navigator/locks",
-          "spec_url": "https://wicg.github.io/web-locks/#navigator-mixins",
+          "spec_url": "https://wicg.github.io/web-locks/#dom-navigatorlocks-locks",
           "support": {
             "chrome": {
               "version_added": "69"
@@ -1417,7 +1417,7 @@
       "maxTouchPoints": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Navigator/maxTouchPoints",
-          "spec_url": "https://w3c.github.io/pointerevents/#extensions-to-the-navigator-interface",
+          "spec_url": "https://w3c.github.io/pointerevents/#dom-navigator-maxtouchpoints",
           "support": {
             "chrome": {
               "version_added": "35"
@@ -2419,7 +2419,7 @@
       "serviceWorker": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Navigator/serviceWorker",
-          "spec_url": "https://w3c.github.io/ServiceWorker/#navigator-serviceworker",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#navigator-service-worker-attribute",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -2907,7 +2907,7 @@
       "webdriver": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Navigator/webdriver",
-          "spec_url": "https://w3c.github.io/webdriver/#dom-navigatorautomationinformation-webdriver",
+          "spec_url": "https://w3c.github.io/webdriver/#dfn-webdriver",
           "support": {
             "chrome": {
               "version_added": "63"
